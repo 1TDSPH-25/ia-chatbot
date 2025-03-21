@@ -39,7 +39,7 @@
 
 ---
 
-## 👨‍🔧 Atividade Prática (Checkpoint)
+## 👨‍🔧 Atividade Prática
 > ✅ Criar uma nova intent chamada `#entrega-produto`  
 > ✅ Adicionar exemplos variados relacionados a prazo de entrega  
 > ✅ Configurar um nó no diálogo que responda com base na nova intent
