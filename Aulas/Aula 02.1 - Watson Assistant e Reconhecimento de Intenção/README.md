@@ -55,7 +55,7 @@
 ---
 
 ## 📄 Slides
-Os slides desta aula estão disponíveis [aqui](./slides.pdf)
+Os slides desta aula estão disponíveis [aqui](./Aula%2002%20-%20Watson%20Assistant%20e%20Reconhecimento%20de%20Inten%C3%A7%C3%A3o.pdf)
 
 ---
 
