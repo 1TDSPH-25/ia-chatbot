@@ -120,6 +120,11 @@
 
 ---
 
+## 📄 Slides
+Os slides desta aula estão disponíveis [aqui](./Aula%2001%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.pdf)
+
+---
+
 ## 📝 Copyright
 
 > © 2023 Prof. Erick Yamamoto  
